@@ -50,8 +50,6 @@ All documents can be read directly on GitHub. Suggested order:
 
 Short on time? Read the [Project Summary](docs/01-project-summary.md) first, then the [RTM](docs/06-rtm.md).
 
-The Word, Excel and PowerPoint versions are in [`original-files/`](original-files).
-
 ## Main decisions
 
 | Decision | Reason |
