@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temporary / lock files
+~$*
+*.tmp
+
+# SQLite temporary files
+*.db-journal
+*.db-wal
+*.db-shm
