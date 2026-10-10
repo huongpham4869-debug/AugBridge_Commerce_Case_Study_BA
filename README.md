@@ -131,8 +131,7 @@ More detail is in [`data/README.md`](data/README.md).
 │   ├── wireframes/            Needs action view, operations dashboard
 │   └── slides/                Slide images for the Project Summary
 ├── data/                      Simulated dataset (SQLite + CSV) and data dictionary
-├── sql/                       Schema and analysis queries with their output
-└── original-files/            Word, Excel and PowerPoint versions
+└── sql/                       Schema and analysis queries with their output
 ```
 
 ## Limitations
